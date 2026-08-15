@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function SignIn(){
     return(
         <div>
-          <h1>Signup Page</h1>
+          <h1>SignIn Page</h1>
           <form>
             <div>
                 <label for="email">Email</label>
